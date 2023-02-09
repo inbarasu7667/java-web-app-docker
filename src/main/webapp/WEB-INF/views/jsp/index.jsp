@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To inbarasu.</h2>
-			<h3>Contact @ +91-7397130384 </h3>
+			<h2>Welcome To Inba Cloud.</h2>
+			<h3>Contact @ +91-9626230365 </h3>
 		</div>	
 	</div>
 
