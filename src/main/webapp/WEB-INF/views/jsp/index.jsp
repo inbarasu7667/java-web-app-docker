@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Inbarasu .</h2>
+			<h2>Welcome To Inbarasu (AWS/DevOps).</h2>
 			<h3>Contact @ +91-96*****365 </h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; @inba 2023</p>
+		<p>&copy; inba 2023</p>
 	</footer>
 </div>
 
